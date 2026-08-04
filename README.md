@@ -27,11 +27,12 @@ pip install torch flask python-chess
 
 # Run the backend script
 python server.py
-
+```
 The server will boot up locally on http://127.0.0.1:5000. Keep this terminal window open.
 
 2. Launch the Rust Client
 Open a second terminal window in your Rust project folder and execute:
 
-Bash
+```Bash
 cargo run
+```
